@@ -1,5 +1,6 @@
-"""Task 
-You are given the year, and you have to write a function to check if the year is leap or not."""
+"""""Task 
+You are given the year, and you have to write a function to check if the year is leap or not."""""
+
 def is_leap(year):
     leap = False
     if(year%100==0):
